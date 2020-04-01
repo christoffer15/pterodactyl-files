@@ -1,0 +1,18 @@
+# Configuration file for Tuinity.
+target-chunk-sends-per-player-per-second: 40.0
+delay-chunkunloads-by: 10
+config-version-please-do-not-modify-me: 1
+world-settings:
+  default:
+    optimized-tracker-track-range: -1
+    optimized-tracker-untrack-range: -1
+    optimized-tracker: true
+    no-tick-view-distance: 8
+    spawn-limits:
+      monsters: -1
+      animals: -1
+      water-animals: -1
+      ambient: -1
+  world: {}
+  world_nether: {}
+  world_the_end: {}
