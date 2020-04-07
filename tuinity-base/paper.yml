@@ -125,6 +125,10 @@ world-settings:
       enabled: true
       items:
         COBBLESTONE: 300
+        DIRT: 300
+        GRAVEL: 300
+        SAND: 300
+        GRANITE: 300
     game-mechanics:
       disable-pillager-patrols: false
       scan-for-legacy-ender-dragon: true
